@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madan</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Aeronautical Engineering Graduate</h3>
+<h3 align="center">Python developer | Aeronautical Engineering Graduate</h3>
 
 <img 
   align="right" 
