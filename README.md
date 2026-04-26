@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madan</h1>
 <h3 align="center">Python developer | Aeronautical Engineering Graduate</h3>
 
-<img 
-  align="right" 
-  alt="coding" 
-  style="width:400px; height:200px;" 
+
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madan-ml&label=Profile%20views&color=0e75b6&style=flat" alt="madan-ml" /> </p>
