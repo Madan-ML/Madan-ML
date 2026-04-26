@@ -9,12 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madan-ml&label=Profile%20views&color=0e75b6&style=flat" alt="madan-ml" /> </p>
 
-- 🔭 I’m currently working on **Aircraft Failure Prediction using Machine Learning**
 - 🌱 I’m currently learning **Machine Learning (Scikit-learn, Pandas, NumPy), Deep Learning (Keras, TensorFlow), Git & GitHub, Django (for ML deployment)**
 - 👯 I’m looking to collaborate on **AI-Based Models**
 - 🤝 I’m looking for help with **Deep Learning Projects & Model Optimization Techniques**
 - 👨‍💻 All of my projects are available at [https://github.com/Madan-ML](https://github.com/Madan-ML)
-- 💬 Ask me about **Machine Learning, Python, UAV concepts, Basic AI models**
+- 💬 Ask me about **Machine Learning, Python, Basic AI models**
 - 📫 How to reach me: **madandn4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
