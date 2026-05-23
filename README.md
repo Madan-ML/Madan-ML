@@ -1,36 +1,18 @@
-<h1 align="center">Hi 👋, I'm Madan</h1>
-<h3 align="center">Python developer | Aeronautical Engineering Graduate</h3>
+# 💫 About Me:
+Hi there 👋, I'm Madan<br><br>💻 Backend Developer passionate about building scalable web applications and AI-powered solutions.<br>🐍 Skilled in Python, FastAPI, Flask, Django, SQL, Docker, and AWS.<br>🚀 Experienced in REST API development, CI/CD automation, and cloud deployment.<br>🧠 Interested in Machine Learning, Backend Systems, and Software Engineering.<br>📚 Always learning new technologies and improving problem-solving skills.<br><br>Tech Stack<br>Languages: Python, SQL, Java, JavaScript <br>Frameworks: FastAPI, Flask, Django<br>Tools: Git, Docker, GitHub Actions, AWS<br>ML/Data: TensorFlow, Scikit-learn, Pandas, NumPy
 
 
-  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/madan-debnath-8a6899307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madandn4@gmail.com) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madan-ml&label=Profile%20views&color=0e75b6&style=flat" alt="madan-ml" /> </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Madan-ML&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Madan-ML&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Madan-ML&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Machine Learning (Scikit-learn, Pandas, NumPy), Deep Learning (Keras, TensorFlow), Git & GitHub, Django (for ML deployment)**
-- 👯 I’m looking to collaborate on **AI-Based Models**
-- 🤝 I’m looking for help with **Deep Learning Projects & Model Optimization Techniques**
-- 👨‍💻 All of my projects are available at [https://github.com/Madan-ML](https://github.com/Madan-ML)
-- 💬 Ask me about **Machine Learning, Python, Basic AI models**
-- 📫 How to reach me: **madandn4@gmail.com**
+---
+[![](https://komarev.com/ghpvc/?username=Madan-ML&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/madan-debnath" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madan-debnath" height="30" width="40" />
-  </a> 
-  <a href="https://instagram.com/madhu_dn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhu_dn" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <!-- Add more icons as needed -->
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madan-ml&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madan-ml&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madan-ml" alt="GitHub Streak" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
