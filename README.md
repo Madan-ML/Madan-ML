@@ -1,5 +1,26 @@
-# 💫 About Me:
-Hi there 👋, I'm Madan<br><br>💻 Backend Developer passionate about building scalable web applications and AI-powered solutions.<br>🐍 Skilled in Python, FastAPI, Flask, Django, SQL, Docker, and AWS.<br>🚀 Experienced in REST API development, CI/CD automation, and cloud deployment.<br>🧠 Interested in Machine Learning, Backend Systems, and Software Engineering.<br>📚 Always learning new technologies and improving problem-solving skills.<br><br>Tech Stack<br>Languages: Python, SQL, Java, JavaScript <br>Frameworks: FastAPI, Flask, Django<br>Tools: Git, Docker, GitHub Actions, AWS<br>ML/Data: TensorFlow, Scikit-learn, Pandas, NumPy
+💫 About Me:
+
+Hi there 👋, I'm Madan
+
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights and business solutions.
+
+📈 Skilled in Power BI, SQL, Excel, and Python for data analysis, visualization, and reporting.
+
+🔍 Experienced in data cleaning, dashboard creation, data modeling, and KPI analysis.
+
+🚀 Interested in Business Intelligence, Data Analytics, Data Visualization, and Decision-Making through Data.
+
+📚 Continuously learning new analytical tools, techniques, and industry best practices.
+
+🛠️ Tech Stack
+
+Data Analysis & Visualization: Power BI, Microsoft Excel, SQL
+
+Programming: Python
+
+Python Libraries: Pandas, NumPy, Matplotlib
+
+Database: MySQL, SQL Server
 
 
 ## 🌐 Socials:
